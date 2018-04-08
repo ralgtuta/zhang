@@ -3,3 +3,40 @@ asdfdasfdsfsf
 asdfsda
 df
 asdfsadfds
+
+由于文件过大，下面提供网盘地址下载
+
+
+百度网盘
+
+https://pan.baidu.com/s/1dFOG15B 密码: yuek
+
+https://pan.baidu.com/s/1c2mOIm0 密码: 49cq
+
+
+
+
+weblogic是美国Oracle公司开发的一个基于JAVAEE架构的中间件，纯java开发，是用于开发、集成、部署和管理大型分布式Web应用、网络应用和数据库应用的Java应用服务器。软件将Java的动态功能和Java Enterprise标准的安全性引入大型网络应用的开发、集成、部署和管理之中，完全遵循J2EE 1.4规范，功能强大，包括ejb,jsp,servlet,jms等等，并提供其他如JAVA编辑等工具，是一个综合的开发及运行环境。 
+
+
+weblogic server 12c是目前weblogic的最新版本，包括3个常用的版本，分别为通用版、分发包和完整版，其中通用版包括了Oracle WebLogic Server和Oracle Coherence的安装程序；分发包仅包含 Oracle WebLogic Server的zip分发包仅用于WebLogic Server开发；而完整版包含了Oracle WebLogic Server、Oracle Coherence和Oracle Enterprise Pack for Eclipse的安装程序，仅用于开发。
+
+
+docker run -p 8080:8080 -p 50000:50000 -it jenkins
+
+/* example 3.30 */
+
+#include<stdio.h>
+void main()
+{ int i,j,mul;
+  for(i=1;i<=9;i++)
+  { for(j=1;j<=i;j++)
+     { mul=i*j;
+        printf("%d*%d=%d\t",i,j,mul);  }
+    printf("\n"); 
+  }
+}
+
+
+docker run  -p 49163:7001 -p 49164:7002 -p 49165:5556 -it ismaleiva90/weblogic12
+
